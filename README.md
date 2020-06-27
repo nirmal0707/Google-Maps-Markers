@@ -1,10 +1,12 @@
-# googlemaps1addingmarker
+# Google Maps Markers
 
-A new Flutter application.
+Adding markers in google maps.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+* Add API KEY in AndroidManifest.xml
+* Add required plugins in Pubspec.yaml
+* Copy out the code and build project 
 
 A few resources to get you started if this is your first Flutter project:
 
